@@ -1,0 +1,19 @@
+=== DATA MAHASISWA ===
+1. Muhammad Naufal Akif Magal (Naufal)
+   NIM   : 25031554183
+   Prodi : Sains Data
+   Alamat: Jl. A.Yani No.25, Surabaya
+   Mata Kuliah: Kalkulus, Statistika, Pemrograman
+
+2. Aditya Hendra Paramuda (Adit)
+   NIM   : 25031554275
+   Prodi : Sains Data
+   Alamat: Jl. A.Yani No.25, Surabaya
+   Mata Kuliah: Kalkulus, Statistika, Pemrograman
+
+3. Taqrifan Wicaksono (Ripan)
+   NIM   : 25031554165
+   Prodi : Sains Data
+   Alamat: Jl. A.Yani No.25, Surabaya
+   Mata Kuliah: Kalkulus, Statistika, Pemrograman
+

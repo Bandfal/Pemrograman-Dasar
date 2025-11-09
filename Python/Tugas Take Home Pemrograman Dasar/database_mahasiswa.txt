@@ -1,0 +1,1 @@
+{'Sains Data': {'nama_pendek': ['Naufal', 'Adit', 'Ripan'], 'nama_lengkap': ['Muhammad Naufal Akif Magal', 'Aditya Hendra Paramuda', 'Taqrifan Wicaksono'], 'nim': ['25031554183', '25031554275', '25031554165'], 'alamat': 'Jl. A.Yani No.25, Surabaya', 'matakuliah': ['Kalkulus', 'Statistika', 'Pemrograman']}}
